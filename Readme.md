@@ -1,0 +1,1 @@
+Conteúdos para auxiliar no aprendizado e facilitar a execução do projeto, construir uma aplicação do zero para consumir uma API de filmes com Java. 💻
