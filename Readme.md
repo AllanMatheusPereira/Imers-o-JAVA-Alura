@@ -1,4 +1,4 @@
-Conteúdos para auxiliar no aprendizado e facilitar a execução do projeto, construir uma aplicação do zero para consumir uma API de filmes com Java. 💻
+#Conteúdos para auxiliar no aprendizado e facilitar a execução do projeto, construir uma aplicação do zero para consumir uma API de filmes com Java. 💻
 
 Link 1 Vídeo | Como posso estudar melhor?: https://www.youtube.com/watch?v=Is6c9KSGCbk&ab_channel=Alura
 Link 2 Artigo | Algoritmos e Lógica de programação: O que são e qual a importância?: https://www.alura.com.br/artigos/algoritmos-e-logica-de-programacao
