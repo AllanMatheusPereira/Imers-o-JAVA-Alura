@@ -94,3 +94,8 @@ Mostre seu projeto para o mundo compartilhando no LinkedIn e Instagram! Marque a
 Ah, e não esqueça de colocar a tag ImersaoJava dentro do seu projeto no GitHub. É só clicar na engrenagem que aparece na seção About e colocar a tag ImersaoJava dentro do campo Topics. Queremos ver seu portfólio!
 
 Discord
+
+
+
+
+Verificar os links disponiveis na pagina das aulas, para tirar maiores dúvidas.
